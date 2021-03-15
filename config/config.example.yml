@@ -54,7 +54,7 @@ genericFormats:
     worst/worstvideo: Worst
 
 # Enable debug mode.
-debug: false
+debug: true
 
 # True to enable audio conversion mode by default
 defaultAudio: false
