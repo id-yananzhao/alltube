@@ -14,7 +14,7 @@ params:
     - --no-playlist
 
 # True to enable audio conversion
-convert: true
+convert: false
 
 # True to enable advanced conversion mode
 convertAdvanced: false
@@ -49,8 +49,8 @@ appName: 视频下载
 
 # Generic formats supported by youtube-dl
 genericFormats:
-    best/bestvideo: Best
     bestvideo+bestaudio: Remux best video with best audio
+    best/bestvideo: Best
     worst/worstvideo: Worst
 
 # Enable debug mode.
