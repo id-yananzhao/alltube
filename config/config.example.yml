@@ -39,7 +39,7 @@ uglyUrls: false
 stream: false
 
 # True to enable remux mode (merge best audio and best video)
-remux: false
+remux: true
 
 # MP3 bitrate when converting (in kbit/s)
 audioBitrate: 128
